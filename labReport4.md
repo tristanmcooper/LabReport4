@@ -7,7 +7,7 @@ We're going to look back at Week 7's Lab Contest and how I thought to speed up t
 **I managed to complete all the tasks with two commands, which meant a total of just five keyboard presses!**
 
 ## Step 4: "Log into `ieng6`"
-![step4sc](/Users/tristancooper/Desktop/cse15l/LabReport4/step4sc.png)
+![step4sc](/Users/tristancooper/Desktop/cse15l/LabReport4Repo/LabReport4/step4sc.png)
 
 As you can see above, this step isn't anything we're unfamiliar with in this class.
 Because we were allowed to use our command line history for these tasks, this command only took 2 keyboard presses
@@ -22,7 +22,7 @@ By separating each command with a semicolon `;`, I was able to run them all in t
 Therefore, this step took just one more keyboard repetition than logging into `ieng6`, because it existed one command further back in the history. 
 KEYS PRESSED: `<up><up><enter>`
 *Here is a screenshot of my terminal after running the command:*
-![step5-9](/Users/tristancooper/Desktop/cse15l/LabReport4/4-5sc.png)
+![step5-9](/Users/tristancooper/Desktop/cse15l/LabReport4Repo/LabReport4/4-5sc.png)
 
 ## Summary of Commands:
 1. `git clone git@github.com:tristanmcooper/lab7.git` Clones the repository __**(Step 5)**__
